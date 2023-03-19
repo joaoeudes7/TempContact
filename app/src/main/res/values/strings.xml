@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WhatsNumber</string>
+    <string name="remove">Remove</string>
+    <string name="remove_all">Remove all</string>
+    <string name="send_message">Send message</string>
+    <string name="historic">Historic</string>
+    <string name="ddd">DDD</string>
+    <string name="number">Number</string>
+    <string name="default_prefix_number">Default Prefix Number</string>
+    <string name="country_code">Country Code</string>
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="telegram">Telegram</string>
+    <string name="other">Other</string>
+    <string name="no_historic_found">No historic found</string>
+    <string name="clear_all">Clear All</string>
+    <string name="settings">Settings</string>
+</resources>
