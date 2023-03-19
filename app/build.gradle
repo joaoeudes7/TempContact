@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.jedev.whatsnumber'
+    namespace 'com.jedev.tempnumber'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.jedev.whatsnumber"
+        applicationId "com.jedev.tempnumber"
         minSdk 24
         targetSdk 33
         versionCode 1

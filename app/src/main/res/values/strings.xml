@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WhatsNumber</string>
+    <string name="app_name">TempNumber</string>
     <string name="remove">Remove</string>
     <string name="remove_all">Remove all</string>
     <string name="send_message">Send message</string>
@@ -8,7 +8,9 @@
     <string name="number">Number</string>
     <string name="default_prefix_number">Default Prefix Number</string>
     <string name="country_code">Country Code</string>
-    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_intersticial">ca-app-pub-3696141581202991/8985649366</string>
+    <string name="ad_id_startup">ca-app-pub-3696141581202991/1382491514</string>
+    <string name="ad_id_banner">ca-app-pub-3696141581202991/8528970902</string>
     <string name="whatsapp">Whatsapp</string>
     <string name="telegram">Telegram</string>
     <string name="other">Other</string>
